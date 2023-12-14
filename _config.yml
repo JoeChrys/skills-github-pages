@@ -2,3 +2,5 @@ theme: minima
 title: My Pages
 author: JoeChrys
 description: github skill pages tutorial
+include:
+  - _posts
