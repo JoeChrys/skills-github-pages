@@ -1,3 +1,4 @@
-Welcome to my experimental blog
+---
+title: "Welcome to my experimental blog"
 ---
 
